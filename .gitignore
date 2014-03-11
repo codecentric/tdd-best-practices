@@ -1,0 +1,15 @@
+*.class
+*.jar
+*.war
+*.ear
+
+.classpath
+.project
+.settings
+.pmd
+.DS_Store
+*.log
+junit-xml-report/
+
+target/
+Thumbs.db
